@@ -1,0 +1,65 @@
+1. Perkenalan Diri
+-------------------Baca aja
+sedikit mudah kecewa
+sedikit kurang sabaran
+belum banyak pengalaman
+
+mudah belajar hal baru, fleksibel, kreatif, dan memiliki pengalaman leadership
+
+2. Infrastructure IT - Era Cloud
+
+ a. Perkembangan IT
+1. Mempermudah infrastruktur IT dan pengelolaannya 
+2. Mengurangi risiko kehilangan data dan risiko pemeliharaan server.
+3. Efisiensi Biaya sehingga perusahaan tidak perlu mengeluarkan biaya membeli server fisik atau upgrade server 
+4. Fleksibel dalam menambah kebutuhan bandwidth, storage dan mudah diakses.
+    
+ b. Cloud Computing
+ 	Cloud computing adalah konsep komputasi berbasis internet yang memungkinkan sebagian user untuk melakukan CRUD sehingga memudahkan akses data, kolaborasi.
+
+   Menurut jangkauan
+   1. Public Cloud
+	- public User dapat bebas mengakses informasi *cth google
+	- tinkat informasi tidak terlalu konfidensial
+	- bisa dibilang Public Cloud sangat mengutamakan faktor keamanan. Jadi, walaupun berada di lingkungan cloud yang sama, pengguna satu tidak bisa mengintip data pengguna lain
+   2. Private Cloud
+	- Hanya User khusus yang dapat mengakses *cth: perusahan2
+	- Biasanya digunakan untuk data yang konfidensial 
+   3. Community Cloud
+	- Digunakan secara bersama oleh beberapa organisasi yang memiliki kepentingan yang sama
+	- Cloud kemungkinan dimiliki dan dikelola oleh satu atau lebih organisasi dalam komunitas tersebut
+   4. Hybrid Cloud
+	- hybrid Cloud merupakan komposisi dari dua atau lebih infrastruktur, baik Public Cloud, Private Cloud, maupun Community Cloud.
+
+  Menurut Jenisnya
+1. Platform-as-a-Service
+Platform as a Service (PaaS) merupakan layanan berbasis cloud dengan cara menyewa perangkat keras (hardware), sistem operasi, storage, dan kapasitas jaringan via internet. Pengguna bisa menyewa virtual server dan layanan untuk menjalankan software berbasis web yang telah dikembangkan. Selain itu, pengguna juga dapat menguji software berbasis web yang sedang dikembangkan.Biasanya, PaaS berupa framework yang digunakan oleh pengembang (developer) khususnya perusahaan startup
+
+2. Infrastructure-as-a-Service
+infrastructure as a Service (IaaS) merupakan sebuah layanan infrastruktur komputasi awan yang berupa, satu paket perangkat hardware komputer virtual, bersama dengan jaringan internet, bandwidth, dan dukungan alamat IP. Terdapat jaminan online secara real time dan keamanan dalam ‘ruang lingkup’ satu unit layanan IaaS. Contoh Iaas antara lain, Cisco yang menyediakan fitur dasar solusi telepon dan Biznet GIO Cloud sebagai pusat data virtual untuk korporasi
+	
+3. Data Storage-as-a-Service
+Data-Storage as a Service (DaaS) cloud computing adalah model layanan cloud untuk penyediaan fasilitas sistem penyimpanan data secara remote dan dapat mengaksesnya kapan saja dan dari mana saja. Contoh industri komersial yang menyediakan layanan DaaS adalah EMC Storage Managed Service (SMS), dan Google Cloud Datastore.
+	
+4. Software as a Service-as-a-Service
+Software as a Service (SaaS) merupakan layanan yang mengacu pada perangkat lunak (software) berbasis cloud via online melalui internet dan bisa dibeli secara berlangganan. Aplikasi tersedia dalam bentuk langganan sesuai kebutuhan pengguna atau on-demand. Jadi, pengguna tidak perlu lagi membeli lisensi dan menginstal aplikasi, melainkan cukup membayar biaya sesuai pemakaian.
+    
+ c. Case
+   1. Kuliah online - google drive - google docs
+	- bisa diakses semua orang 
+   2. Case tempat kerja data identitas farmer - edit dari orang lain
+
+ d. Solusi
+	meneraapkan private cloud  
+
+
+3. Kesimpulan
+a. perkembangan teknologi informasi yang semakin meningkat ditandai dari kecenderungan masyarakat yang banyak menggunakan teknologi informasi sebagai wadah untuk menciptakan dan menyebarkan karya intelektualnya dalam dunia maya
+
+b. Melalui penerapan infrastruktur yang lengkap dan penerapan cloud dengan baik dapat memudahkan user untuk melakukan CRUD terhadap data dan yang lebih penting adalah memiliki tempat penyimpanan data yang aman dan fleksibel dengan sistem IT
+
+c. Kesimpulan akhir: Pada prinsipnya teknologi yang baik bukanlah teknologi yang canggih, melainkan teknologi yang dapat di manfaatkan dengan baik oleh usernya
+    
+    
+
+    
